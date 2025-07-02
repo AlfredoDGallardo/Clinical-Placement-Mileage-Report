@@ -2,5 +2,5 @@
 <img src="https://profitbooks.net/wp-content/uploads/2024/04/Microsoft-Excel-Logo.png" height="40%" width="40%" alt="Microsoft Azure Logo"/>
 </p>
 
-<h1> Clinical-Placement-Mileage-Report
+<h1> Clinical-Placement-Mileage-Report </h1>
 Excel-based clinical mileage tracking report with insights on student placement distances and forecasting future courses
