@@ -1,4 +1,4 @@
-<h1> Clinical-Placement-Mileage-Report </h1>
+<h1> Clinical Placement Mileage Report </h1>
 Excel-based clinical mileage tracking report with insights on student placement distances and forecasting future courses
 
 ---
