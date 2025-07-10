@@ -22,7 +22,11 @@ This report calculates the mileage between each student and their assigned clini
 
 ## 📁 Files
 - <a href="https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report/blob/main/Anonymizez_Sample_Student_Mileage_Report.xlsx">Excel File</a> – Main Excel file
-- `Screenshot.png` – Visual example of output
+- Dashboard and Report Screenshots :
+  - ![image](https://github.com/user-attachments/assets/de83b7c3-f360-4365-9431-f56b5479c3f8)
+  - ![image](https://github.com/user-attachments/assets/d0ef1753-3dba-44aa-8ff3-6ee0e8004d06)
+
+
 
 ## 📈 Dashboard Summary
 The Excel dashboard includes:
