@@ -24,6 +24,14 @@ This report calculates the mileage between each student and their assigned clini
 - <a href="https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report/blob/main/Anonymizez_Sample_Student_Mileage_Report.xlsx">Excel File</a> – Main Excel file
 - `Screenshot.png` – Visual example of output
 
+## 📈 Dashboard Summary
+The Excel dashboard includes:
+- Averages for Closest Hubs – Displays average mileage for the 1st, 2nd, and 3rd closest hubs to evaluate placement efficiency.
+- U.S. State Map – A visual showing the number of students in each state, supporting regional capacity planning.
+- Assigned Hub Count – A breakdown showing which clinical hubs are most frequently assigned, highlighting usage patterns across the system.
+
+These visuals offer leadership a quick overview of clinical reach, student distribution, and site saturation.
+
 ## 💼 Business Impact
 - Enabled data-driven student placement by identifying optimal clinical sites
 - Reduced average student travel time by highlighting closer hub options
