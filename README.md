@@ -25,7 +25,7 @@ This report calculates the mileage between each student and their assigned clini
     - Formula Used : 🧮```excel =TRANSPOSE(FILTER(CourseListRange, StudentID = StudentIDRange))```
 
 ## 📁 Files
-- (https://github.com/AlfredoDGallardo/Clinical-Placement-Mileage-Report/blob/main/Anonymizez_Sample_Student_Mileage_Report.xlsx) – Main Excel file
+- Anonymizez_Sample_Student_Mileage_Report.xlsx – Main Excel file
 - `Screenshot.png` – Visual example of output
 
 ## 💼 Business Impact
