@@ -29,4 +29,7 @@ This report calculates the mileage between each student and their assigned clini
 - `Screenshot.png` – Visual example of output
 
 ## 💼 Business Impact
-Helped reduce student travel time by identifying closer placement options and increased transparency in placement decisions.
+- Enabled data-driven student placement by identifying optimal clinical sites
+- Reduced average student travel time by highlighting closer hub options
+- Improved compliance by flagging students in unauthorized enrollment states
+- Supported planning by providing a forecast of future clinical course needs
